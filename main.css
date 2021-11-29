@@ -176,7 +176,7 @@ html{
     border-radius: 4px;
     margin:0 5px;
 }
-#footer .button-footer:hover .submit-footer{
+#footer .button-footer .submit-footer:hover{
     background-color: #ccc !important;
     cursor: pointer;
 }
